@@ -1,5 +1,7 @@
 # Pneumonia_X-Ray_ML_Model
 
+Live link for the web - [Pneumonia Detector](https://share.streamlit.io/hrushi11/pneumonia_x-ray_ml_model/main/main.py)
+
 Visit the colab notebook here for the code -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ogjftt84EW4zBJwwzs_IFubS_cqTIR6i)
 
 Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus (purulent material), 
@@ -20,4 +22,6 @@ The diagnoses for the images were then graded by two expert physicians before be
 
 **Citation :** Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, 
 Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2
+
+![Image](https://i.ibb.co/qnG7Kcf/pneu.jpg)
 
