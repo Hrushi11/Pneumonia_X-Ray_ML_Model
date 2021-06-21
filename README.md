@@ -21,5 +21,3 @@ The diagnoses for the images were then graded by two expert physicians before be
 **Citation :** Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, 
 Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2
 
-### Contributors - 
-1. [@Hrushikesh Kachgunde](https://github.com/Hrushi11)
