@@ -33,7 +33,7 @@ def load_and_prep_image(image):
   image = tf.image.resize(image, size=IMAGE_SHAPE)
   #Grayscale
   if image.shape[2] == 1:
-    img = tf.image.grayscale_to_rgb(image)
+    image = tf.image.grayscale_to_rgb(image)
   # Rescale the image (getting all values between 0 & 1)
   # image = image/255
 
