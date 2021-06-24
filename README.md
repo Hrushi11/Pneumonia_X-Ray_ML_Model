@@ -1,6 +1,6 @@
 # Pneumonia_X-Ray_ML_Model
 
-Live link for the web - [Pneumonia Detector](https://share.streamlit.io/hrushi11/pneumonia_x-ray_ml_model/main/main.py)
+Live link for the web - [Pneumonia Detector](https://share.streamlit.io/hrushi11/pneumonia_x-ray_ml_model/main/app.py)
 
 Visit the colab notebook here for the code -> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ogjftt84EW4zBJwwzs_IFubS_cqTIR6i)
 
